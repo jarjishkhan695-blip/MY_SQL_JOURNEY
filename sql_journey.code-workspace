@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "name": "My SQL Journey",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.associations": {
+      "*.sql": "sql"
+    },
+    "editor.formatOnSave": true
+  }
+}
