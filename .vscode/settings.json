@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.sql": "sql"
+  },
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "sqltools.useNodeRuntime": true
+}
