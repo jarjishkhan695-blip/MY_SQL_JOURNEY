@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/*.log
+.idea/
+
+# Database exports and dumps
+*.dump
+*.sql.gz
+*.bak
+*.backup
+
+# Local environment files
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.temp
